@@ -1,0 +1,99 @@
+# UpPoint
+[
+
+
+
+    {
+     "id": "1",
+     "nome": "Fone samsung auricular",
+     "desc": "fone de Samsung auricular original com fio",
+     "img":	"https://cf.shopee.com.br/file/aca36c1357af5d10c5cfea4713f659c3",
+     "preco": "10,00 R$"
+     },
+    
+    {
+     
+     "id": "2",
+     "nome": "Fone HeadSet JBL Bluetooth",
+     "desc": "fone de marca JBl bluetooth,acompanha cabo para carregar",
+     "img":	"https://cf.shopee.com.br/file/a7e6e464e21aa7bf078c43f2e904994e",	
+     "preco": "31,00 R$"
+     },
+    
+    {  
+     
+     "id": "3",
+     "nome": "Teclado C/Fio USB K120 Logitech",
+     "desc": "Teclado Logitech K120 para Computadores, teclado basico para uso comercial ou pessoal.",
+     "img":	 "https://eletronicasantana.vteximg.com.br/arquivos/ids/63721-660-660/105519-1-teclado_usb_logitech_keyboard_k120_920_004423-5.jpg?v=637774183122730000",
+     "preco": "15,96 R$"
+     },
+     
+    {
+     
+     "id": "4",
+     "nome": "Teclado Gamer Warrior",
+     "desc": "teclado gamer Warrior, para gamer e uso pessoal.",
+     "img":	"http://www.kadri.com.br/imgsite/produtos/amp-30647_1.jpg",
+     "preco": "56,80 R$"
+     },
+    
+    {
+     
+     "id": "5",
+     "nome": "Relogio Digital Smartwatch Xiaomi",
+     "desc": "relogio digital xiaomi, uso de tempo , mostra suas batidas cardiacas e muito mais",
+     "img":	"https://images.tcdn.com.br/img/img_prod/643493/miband_5_relogio_pulseira_inteligente_global_original_xaomi_1077_1_20201214220221.jpg",
+     "preco": "28,00 R$"
+     }, 
+    
+    {
+     "id": "6",
+     "nome": "Relogio Digital Samsung Champion",
+     "desc": "relogio digital samsung original. ",
+     "img":	"https://a-static.mlcdn.com.br/618x463/smartwatch-samsung-galaxy-watch-active2-preto-44mm-4gb/magazineluiza/226484400/ee02e8ad87ac5f0ba8c2445fd758c61d.jpg",
+     "preco": "36,00 R$"
+     }, 
+    
+    {
+     
+     "id": "7",
+     "nome": "Suporte Haste Flexivel para celulares",
+     "desc": "Suporte de celular flexivel para colocar em qualquer lugar",
+     "img":	"https://i0.statig.com.br/bancodeimagens/1e/rn/7t/1ern7t5d2bzckn5l6km52jllo.jpg",
+     "preco": "25,00 R$"
+     },
+    { 
+     
+     "id": "1",
+     "nome": "Suporte Conjunto para Selfie",
+     "desc": "Suporte para selfies apropriado para gravar videos estaticos.",
+     "img":	"https://images-americanas.b2w.io/produtos/2688134719/imagens/suporte-para-conjunto-de-fotos-selfie-com-bluetooth-tripe-octopus-celular-universal/2688134719_1_large.jpg",
+     "preco": "18,30 R$"
+     },
+    
+    {
+     
+     "id": "8",
+     "nome": "Suporte para Tablets",
+     "img":	"https://cf.shopee.com.br/file/aca36c1357af5d10c5cfea4713f659c3",
+     "preco": "20,00 R$"	
+     },	
+    
+    { 
+      
+     "id": "9",
+     "nome": "Mouse Pad gamer Hyper X fury",
+     "img":	"https://vilaveracruz.com.br/wp-content/uploads/2021/03/almohadilla-de-raton-hyperx-fury-pro-hx-mpfs-s-xl-speed-edition-negro.jpg",
+      "preco": "22,00 R$"
+     },
+    
+    {
+     
+     "id": "10",
+     "nome": "Suporte Carregador de Ps4",
+     "desc": "Suporte de ps4 que carrega o controle",
+     "img":	"https://s2.glbimg.com/GkTU9L4rwOjTvytW6tWqXvqEgIc=/0x0:1726x1128/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/i/C/G8TckHTOAnOMycK3KWjA/captura-de-tela-2021-05-12-as-16.54.58.png",
+     "preco": "54,00 R$"
+     }
+    ]
